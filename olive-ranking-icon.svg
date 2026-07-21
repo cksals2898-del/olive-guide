@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">올리브 랭킹 아이콘</title>
+  <rect width="64" height="64" rx="18" fill="#173a34"/>
+  <path d="M17 38c7-2 12-8 15-18 5 8 3 16-3 21-4 3-8 3-12-3Z" fill="#73d8c0"/>
+  <path d="M18 42c6-6 11-11 16-17" fill="none" stroke="#fff" stroke-width="2.5" stroke-linecap="round"/>
+  <rect x="36" y="36" width="5" height="10" rx="2.5" fill="#fff"/>
+  <rect x="44" y="30" width="5" height="16" rx="2.5" fill="#fff"/>
+  <rect x="52" y="23" width="5" height="23" rx="2.5" fill="#73d8c0"/>
+</svg>
